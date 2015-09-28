@@ -1,6 +1,6 @@
 ##CSS Workshop 2013
 ####*By* Sunil Pai
-####12 February 2014 TERI, Bangalore
+####12 February 2013, CIS, Bangalore
 
 1. Box model - padding, margin, border, outline
 2. CSS Property index - [http://www.blooberry.com/indexdot/css/propindex/all.html](http://www.blooberry.com/indexdot/css/propindex/all.html)
