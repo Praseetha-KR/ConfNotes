@@ -1,5 +1,5 @@
 ##JSFoo 2015
-####17-18 MLR Convetion Centre, JP Nagar, Bangalore
+####17-18 September 2015, MLR Convetion Centre, JP Nagar, Bangalore
 
 1. [Web audio api](https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API)
 2. [requestanimationframe](http://www.paulirish.com/2011/requestanimationframe-for-smart-animating/)
