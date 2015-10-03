@@ -57,3 +57,50 @@ server, reverse proxy (Varnish), CDN(CloudFlare, Akamai), Browser
 - Micro optimizations, premature optimizations
 
 ------------
+
+###Web security
+######OWASP (Open Web Application Security Project)
+Devs:
+- Core Engine: to launch plugins, collect results, store data
+- Requester: Headless browser or simple obj with session awareness
+- PluginAPI: To write custom tests
+- UI: To allow ease of use
+- HTTP(s) Proxy: To collect req made by all tests/tools
+- Tool results parser: To rank the findings of diff tools
+- Virtual Patch Tester
+
+######OWTF (Open Web Testing Framework)
+robots.txt
+Classification of plugins:
+- external
+- grep
+- passive
+- semi passive
+- active
+
+rating vulnerabilities
+
+Important python libraries used:
+- Tornado
+- PyCurl
+- SQLAlchemy
+
+Rosetta Flash Check
+
+1. HTTP(S) Proxy:
+	- Tornado
+	- Caching
+	- SSL MiTM
+	- Supporting HTTP & WebSockets (def _new__())
+2. Botnet Mode
+3. zerodye
+4. Pentester's Tools Parser
+5. AJAX Spider  
+	- Brwser driver
+	- Graphing lib
+	- DB driver
+
+crawljax
+
+----------
+
