@@ -56,7 +56,7 @@ server, reverse proxy (Varnish), CDN(CloudFlare, Akamai), Browser
 - Celery/gevent
 - Micro optimizations, premature optimizations
 
-------------
+----------
 
 ###Web security
 ######OWASP (Open Web Application Security Project)
@@ -71,6 +71,7 @@ Devs:
 
 ######OWTF (Open Web Testing Framework)
 robots.txt
+
 Classification of plugins:
 - external
 - grep
