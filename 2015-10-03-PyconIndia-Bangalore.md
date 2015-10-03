@@ -3,6 +3,7 @@
 - [Nibabel](http://nipy.org/nibabel/)
 - fMRI
 
+--------------
 ###Simple hacks to make your Django website faster
 *Premature optimization is the root of all evil* - Knuth
 ######SQL Optimizations:
@@ -55,4 +56,4 @@ server, reverse proxy (Varnish), CDN(CloudFlare, Akamai), Browser
 - Celery/gevent
 - Micro optimizations, premature optimizations
 
-
+------------
